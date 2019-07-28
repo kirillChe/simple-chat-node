@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "training node",
+  "scripts": {
+    "test": "npm run server.js"
+  },
+  "author": "Kirill Che",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.4",
+    "socket.io": "^2.2.0"
+  }
+}
